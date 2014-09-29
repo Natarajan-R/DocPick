@@ -250,13 +250,13 @@
                             <mask key="constraints">
                                 <exclude reference="3fF-K7-OaL"/>
                                 <exclude reference="rYf-yj-KNY"/>
-                                <exclude reference="2cr-pQ-prZ"/>
-                                <exclude reference="LNU-Mt-Kau"/>
                                 <exclude reference="DDa-zm-5uh"/>
                                 <exclude reference="TyO-xh-48x"/>
                                 <exclude reference="keG-Ve-Rtb"/>
                                 <exclude reference="nf1-Nm-jwf"/>
                                 <exclude reference="wxN-RV-VBI"/>
+                                <exclude reference="2cr-pQ-prZ"/>
+                                <exclude reference="LNU-Mt-Kau"/>
                             </mask>
                         </variation>
                         <variation key="widthClass=compact">
